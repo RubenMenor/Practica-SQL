@@ -1,3 +1,5 @@
+--UNION--
+
 -- UNION elimina duplicados
 
 -- Obtiene todos los id de usuarios de las tablas dni y usuarios (exista o no relación)

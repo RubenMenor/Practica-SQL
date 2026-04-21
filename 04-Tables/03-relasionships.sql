@@ -1,4 +1,4 @@
---RELASIONSHIPS
+--RELASIONSHIPS--
 
 create table if not exists users (
 	user_id int unique auto_increment primary key,

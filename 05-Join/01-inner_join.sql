@@ -1,4 +1,4 @@
---INNER JOIN (JOIN)
+--INNER JOIN (JOIN)--
 
 -- Realiza un JOIN de manera incorrecta, ya que no existe un campo de relación
 SELECT * FROM users
